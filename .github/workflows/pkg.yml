@@ -17,7 +17,7 @@ jobs:
       git_user: tzw-my
       git_email: tzw@x-cmd.com
       repo_name: dasel
-      ___X_CMD_GHACTION_X: x1
+      ___X_CMD_GHACTION_X: x7
     steps:
       - name: main
         uses: x-cmd/action@main
